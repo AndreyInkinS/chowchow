@@ -1838,7 +1838,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -2094,7 +2094,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -2255,7 +2255,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -2409,7 +2409,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -2570,7 +2570,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -2731,7 +2731,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -3132,7 +3132,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -3281,7 +3281,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -3958,7 +3958,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -4214,7 +4214,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -4375,7 +4375,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -4536,7 +4536,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -4697,7 +4697,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -4882,7 +4882,7 @@ parcelRequire = (function (e, r, t, n) {
                     },
                     {
                       ty: 7,
-                      nm: "Si tamaños de capas son difer.",
+                      nm: "Si tamaГ±os de capas son difer.",
                       mn: "ADBE Set Matte3-0004",
                       ix: 4,
                       v: { a: 0, k: 1, ix: 4 },
@@ -9892,7 +9892,7 @@ parcelRequire = (function (e, r, t, n) {
           Mt = function (t, e) {
             return (
               (F.ScrollTrigger || B("scrollTrigger", e)) &&
-              F.ScrollTrigger.create({smooth: false})
+              F.ScrollTrigger.create(e, t)
             );
           },
           Pt = function (t, e, r, i) {
@@ -9904,7 +9904,7 @@ parcelRequire = (function (e, r, t, n) {
                   ((t._dur && !1 !== t.vars.lazy) ||
                     (!t._dur && t.vars.lazy)) &&
                   a !== ge.frame
-                  ? (G.push(t), (t._lazy = [e, i]), 0)
+                  ? (G.push(t), (t._lazy = [e, i]), 1)
                   : void 0
                 : 1
             );
@@ -12353,7 +12353,7 @@ parcelRequire = (function (e, r, t, n) {
             defaults: p,
             autoRemoveChildren: !0,
             id: "root",
-            smoothChildTiming: !1,
+            smoothChildTiming: !0,
           })),
           (_.stringFilter = me);
         var sr = {
@@ -13192,7 +13192,7 @@ parcelRequire = (function (e, r, t, n) {
               (b = rt(t, r.svg)),
               r.svg &&
                 ((A = !r.uncache && t.getAttribute("data-svg-origin")),
-                nt(t, A || R, !!A || r.originIsAbsolute, false, b)),
+                nt(t, A || R, !!A || r.originIsAbsolute, !1 !== r.smooth, b)),
               (y = r.xOrigin || 0),
               (v = r.yOrigin || 0),
               b !== K &&
@@ -13605,7 +13605,7 @@ parcelRequire = (function (e, r, t, n) {
                     if (
                       (M ||
                         ((P = t._gsap).renderTransform || it(t),
-                        (C = false),
+                        (C = !1 !== e.smoothOrigin && P.smooth),
                         ((M = this._pt =
                           new p.PropTween(
                             this._pt,
@@ -13649,7 +13649,7 @@ parcelRequire = (function (e, r, t, n) {
                         continue;
                       }
                       if ("smoothOrigin" === g) {
-                        j(this, P, "smooth", false, a);
+                        j(this, P, "smooth", P.smooth, a);
                         continue;
                       }
                       if ("force3D" === g) {
@@ -14639,3 +14639,4 @@ parcelRequire = (function (e, r, t, n) {
   [0, "Focm"],
   null
 );
+//# sourceMappingURL=/src.ab5cab5a.js.map
