@@ -14570,7 +14570,7 @@ parcelRequire = (function (e, r, t, n) {
             (require("_bundle_loader")(
               require.resolve("./components/animation/scrooth")
             ).then(function (t) {
-              
+              t.startSmoothScroll();
             }),
             require("_bundle_loader")(
               require.resolve("./components/animation/gallery")
